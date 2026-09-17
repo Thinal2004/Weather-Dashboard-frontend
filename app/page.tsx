@@ -21,7 +21,7 @@ import {
   CloudLightning
 } from 'lucide-react'
 
-const baseUrl = process.env.NEXT_PUBLIC_API_BASE_URL
+const baseUrl = '/api/backend';
 
 const WEATHER_VIDEOS = {
   clearDay: 'https://assets.mixkit.co/videos/preview/mixkit-clouds-and-blue-sky-1167-large.mp4',
